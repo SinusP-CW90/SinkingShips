@@ -1,2 +1,2 @@
-# Sinking-Ships
+# Sinking-Ships [![Build Status](https://travis-ci.com/SinusP-CW90/SinkingShips.svg?branch=main)](https://travis-ci.com/SinusP-CW90/SinkingShips) [![Coverage Status](https://coveralls.io/repos/github/SinusP-CW90/SinkingShips/badge.svg?branch=master)](https://coveralls.io/github/SinusP-CW90/SinkingShips?branch=master)
 the game sinking-ships is a software project for the course software engineering of the University of Applied Sciences (HTWG Konstanz)
